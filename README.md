@@ -1,0 +1,1 @@
+This repository has our 3rd semester python project, in which numpy and matplotlib is used, where we had analyzed Earthquake Data. This repository was created by a group of 4 members. Anupam Choudhary, PM Sai Prasad, Suchetan Bhuyan, Ujjwal Prajapati
